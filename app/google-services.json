@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362515295676",
+    "project_id": "iilapp-9dd31",
+    "storage_bucket": "iilapp-9dd31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362515295676:android:510807042951d2665c8fb9",
+        "android_client_info": {
+          "package_name": "com.saventech.iil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPbKt9-zWhU8cVUr82jtkXoZ8zYgO5bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
